@@ -1,0 +1,34 @@
+{
+  "name": "backend",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@heroicons/vue": "^1.0.1",
+    "@vue-hero-icons/outline": "^1.0.1",
+    "axios": "^1.5.0",
+    "chart.js": "^4.4.0",
+    "vue": "^3.3.4",
+    "vue-axios": "^3.5.2",
+    "vue-chartjs": "^5.2.0",
+    "vue-moment": "^4.1.0",
+    "vue-moments-ago": "^0.2.0",
+    "vue-router": "^4.2.4",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@headlessui/vue": "^1.7.16",
+    "@heroicons/react": "^2.0.18",
+    "@tailwindcss/forms": "^0.5.5",
+    "@vitejs/plugin-vue": "^4.2.3",
+    "autoprefixer": "^10.4.15",
+    "postcss": "^8.4.28",
+    "tailwindcss": "^3.3.3",
+    "vite": "^4.4.5"
+  }
+}
